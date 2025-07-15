@@ -1,7 +1,12 @@
-# Pokemon-Search-App freeCodeCamp Certified Project
-* This Pokémon Search App allows users to search for Pokémon by their name or ID.
-* It fetches data from the Pokémon API and displays its Stats (Name, HP, Attack, Type, Special Attack, Special Defense, Speed).
-* The interesting part is that it also shows the Image of the Pokemon which is fetched from the Pokemon API.
+# Pokemon Search App
 
-* built on HTML5, CSS3 & JavaScript
-* built from Scratch
+A simple web app to search for Pokémon by name or ID.
+
+- Fetches data from the PokéAPI.
+- Displays basic stats: Name, HP, Attack, Type, Special Attack, Special Defense, Speed.
+- Shows the official Pokémon image.
+
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%20(303).png)
+![Screenshot 2](screenshots/Screenshot%20(304).png)
